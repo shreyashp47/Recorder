@@ -68,7 +68,7 @@
 		require both parties to be informed of the recording first.  Also, if you
 		are talking to someone in a different locality their recording laws may
 		apply to you.</p>]]></string>
-    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_title">Welcome to recorder app!</string>
     <string name="confirm">Confirm</string>
     <string name="cancel">Cancel</string>
     <string name="navigate_upwards">Navigate upwards</string>
